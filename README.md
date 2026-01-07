@@ -22,7 +22,7 @@ A modern, native note-taking application for iPad built with **Swift Playgrounds
 ### 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/mockup.jpg" width="100%" alt="App Preview">
+  <img src="mockup.jpg" width="100%" alt="App Preview">
 </p>
 
 ### 🛠️ Technical Details
@@ -73,7 +73,7 @@ Bu proje, iPad üzerinde Swift Playgrounds kullanılarak geliştirilmiş, **Penc
 ### 📸 Ekran Görüntüleri
 
 <p align="center">
-  <img src="screenshots/mockup.jpg" width="100%" alt="Uygulama Önizlemesi">
+  <img src="mockup.jpg" width="100%" alt="App Preview">
 </p>
 
 ### 🛠️ Teknik Detaylar
@@ -106,3 +106,4 @@ Kod, daha iyi yönetilebilirlik için modüllere ayrılmıştır:
 
 ---
 *Developer / Geliştirici: Berkay Carı*
+
